@@ -29,7 +29,7 @@ higher accurate score, we use a decade of the stockˆas history to predict its f
 In making this model pipeline, we would use the 3 prior years as our training data. This
 pipeline would take the years of data and go over it in a series of sequences, each sequence
 containing 240 days. This sequence of data would then give us the value of the stock. Our
-model has 60% to 70% training accuracy. Our predictor would advice for a long investment
+model has 60% to 70% training accuracy. Our predictor would advise for a long investment
 on either Comcast Company or Adobe, and a short investment on either Protector Gamble
 Company or Salesforce. Although this type of predictor is difficult to generalize, our future
 work would be to include sentimental analysis, web scraping, and Beautiful soup for real
