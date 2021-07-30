@@ -40,5 +40,4 @@ and should, therefore, not be used as a main investment tool.
 <!--
 Give details on how to install fork and install your project. You can get all of the python dependencies for your project by typing `pip3 freeze requirements.txt` on the system that runs your project. Add the generated `requirements.txt` to this repo.
 -->
-1. Fork this repo
-2. Run notebook in Google Colab
+Run notebook in Google Colab.
